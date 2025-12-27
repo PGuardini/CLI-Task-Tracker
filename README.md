@@ -11,4 +11,4 @@ CLI Task Tracker is a simple CRUD exercise built in Python that store the user's
 
 - Have fun! :)
 
-[Github project URL](https://github.com/PGuardini/CLI-Task-Tracker)
+[Task-tracker project](https://roadmap.sh/projects/task-tracker)
